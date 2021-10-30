@@ -1,2 +1,2 @@
 
-Proje; React Emoji Search Utgulması hazır kodları üzerine yazılmış unit testlerinden oluşmaktadır.
+Proje; React Emoji Search Uygulaması hazır kodları üzerine yazılmış unit testlerinden oluşmaktadır.
